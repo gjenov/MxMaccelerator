@@ -1,0 +1,64 @@
+C:/Users/standard/Desktop/180Lab6/tb_part1.v {1 {vlog -work work -stats=none C:/Users/standard/Desktop/180Lab6/tb_part1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_part1
+
+Top level modules:
+	tb_part1
+
+} {} {}} C:/Users/standard/Desktop/180Lab6/part2.v {1 {vlog -work work -stats=none C:/Users/standard/Desktop/180Lab6/part2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MAC1
+-- Compiling module MAC2
+-- Compiling module RAM64x8_A
+-- Compiling module RAM64x8_B
+-- Compiling module RAM_OUT
+-- Compiling module part2
+
+Top level modules:
+	MAC1
+	part2
+
+} {} {}} C:/Users/standard/Desktop/180Lab6/tb_part2.v {1 {vlog -work work -stats=none C:/Users/standard/Desktop/180Lab6/tb_part2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_part2
+
+Top level modules:
+	tb_part2
+
+} {} {}} C:/Users/standard/Desktop/180Lab6/part3.v {1 {vlog -work work -stats=none C:/Users/standard/Desktop/180Lab6/part3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MAC3
+-- Compiling module RAM64x8_A_DUAL
+-- Compiling module RAM64x8_B
+-- Compiling module RAM_OUT
+-- Compiling module part3
+
+Top level modules:
+	part3
+
+} {} {}} C:/Users/standard/Desktop/180Lab6/tb_part3.v {1 {vlog -work work -stats=none C:/Users/standard/Desktop/180Lab6/tb_part3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_part3
+
+Top level modules:
+	tb_part3
+
+} {} {}} C:/Users/standard/Desktop/180Lab6/part4.v {1 {vlog -work work -stats=none C:/Users/standard/Desktop/180Lab6/part4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MAC4
+-- Compiling module RAM64x8_A_DUAL
+-- Compiling module RAM64x8_B
+-- Compiling module RAM_OUT
+-- Compiling module part4
+
+Top level modules:
+	part4
+
+} {} {}} C:/Users/standard/Desktop/180Lab6/tb_part4.v {1 {vlog -work work -stats=none C:/Users/standard/Desktop/180Lab6/tb_part4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_part4
+
+Top level modules:
+	tb_part4
+
+} {} {}}
